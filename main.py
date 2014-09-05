@@ -65,6 +65,7 @@ def generate_index(start_date_str, num_days_str):
 
     s += '----\n'
     s += '!Tasks\n'
+    s += '* '
     return s
 
 def main():
